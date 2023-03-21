@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 50px 0;
+    font-size: 20px;
+    line-height: 1.4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    padding: 0 35px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.first-section {
+    margin-top: 40px;
+    background-color: #a5dbd1;
+    padding: 20px;
+}
+
+.second-section {
+    margin-top: 40px;
+    background-color: #a5ccdb;
+    padding: 20px;
+}
